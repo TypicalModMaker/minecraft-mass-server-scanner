@@ -2,7 +2,7 @@
 Minecraft mass server scanner using python, massscan and QuboScanner.
 # Idea taken from LiveOverflow (https://www.youtube.com/watch?v=VIy_YbfAKqo)
 
-## :warning: **RUNNING THIS ON YOUR MAIN MACHINE (PC) IS STRONGLY DISCOURAGED, Quoting massscan docs:**
+## :warning: **RUNNING THIS ON YOUR MAIN MACHINE (PC) IS STRONGLY DISCOURAGED, Quoting massscan:**
 
 > Scanning the entire Internet is bad. For one thing, parts of the Internet react badly to being scanned. For another thing, some sites track scans and add you to a ban 
 list, which will get you firewalled from useful parts of the Internet.
